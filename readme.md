@@ -4,7 +4,7 @@
 
 ### how to use it
 
-> **WARNING:** you need to install Make
+> **WARNING**: you need to install Make
 
 in the root file directory of this project, initialize the project with the command `make init`, then you can run 
 `make deploy`
