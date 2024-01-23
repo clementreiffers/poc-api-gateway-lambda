@@ -7,3 +7,4 @@ init:
 
 deploy:
 	${TERRAFORM_CMD} apply -auto-approve
+
