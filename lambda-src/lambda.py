@@ -1,2 +1,2 @@
 def handler(event, context):
-    return {"message": "coucou M6"} 
+    return {"message": "coucou M6"}

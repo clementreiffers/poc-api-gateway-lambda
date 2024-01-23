@@ -22,7 +22,7 @@ data "archive_file" "lambda" {
   output_path = var.lambda_payload_path
 }
 
-resource "aws_lambda_function" "test_lambda" {
+resource "aws_lambda_function" "coucou" {
   # If the file is not in the current working directory you will need to include a
   # path.module in the filename.
   filename      = var.lambda_payload_path
